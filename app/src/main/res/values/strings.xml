@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OAuth 2.0 BCP</string>
+    <string name="bcp0212_oauth_2_0_for_native_apps">BCP0212 OAuth 2.0 for Native Apps</string>
+    <string name="logooauth2">logoOauth2</string>
+</resources>
